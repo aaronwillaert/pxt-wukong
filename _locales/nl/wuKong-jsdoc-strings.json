@@ -1,1 +1,27 @@
-
+{
+  "wuKong": "Functies voor het WuKong multifunctioneel uitbreidingsbord van ELECFREAKS Co.,Ltd.",
+  "wuKong.LightMode": "Lichtmodus",
+  "wuKong.MotorList": "Motorlijst",
+  "wuKong.RunList": "8 richtingen",
+  "wuKong.ServoList": "Servolijst",
+  "wuKong.SideList": "Zijlijst",
+  "wuKong.WheelList": "Servolijst",
+  "wuKong.lightIntensity": "Stel de helderheid van de ingebouwde LED-lamp in.",
+  "wuKong.lightIntensity|param|light": "helderheid, bv: 100",
+  "wuKong.mecanumDrift": "Laat de wagen driften.",
+  "wuKong.mecanumRun": "Stel de rijrichting van de wagen in.",
+  "wuKong.mecanumSideRun": "Stel de snelheid voor zijwaarts rijden in.",
+  "wuKong.mecanumSpeed": "Stel de snelheid van de servo in.",
+  "wuKong.mecanumSpin": "Laat de wagen spinnen.",
+  "wuKong.mecanumStop": "Laat de Mecanum-wagen stoppen.",
+  "wuKong.mecanumWheel": "Stel de Mecanum-wiel wagen in.",
+  "wuKong.mecanumWheel|param|LeftFront": "Een servo uit de Servolijst, bv: wuKong.ServoList.S1",
+  "wuKong.mecanumWheel|param|LeftRear": "Een servo uit de Servolijst, bv: wuKong.ServoList.S2",
+  "wuKong.mecanumWheel|param|RightFront": "Een servo uit de Servolijst, bv: wuKong.ServoList.S3",
+  "wuKong.mecanumWheel|param|RightRear": "Een servo uit de Servolijst, bv: wuKong.ServoList.S4",
+  "wuKong.setLightMode": "Stel de weergavemodus van de ingebouwde LED in.",
+  "wuKong.setLightMode|param|mode": "adem of uit, bv: LightMode.BREATH",
+  "wuKong.setMotorSpeed": "Stel de snelheid van motor M1 of M2 in.",
+  "wuKong.setMotorSpeed|param|motor": "motor M1 of M2, bv: MotorList.M1",
+  "wuKong.setMotorSpeed|param|speed": "motorsnelheid, bv: 100"
+}
