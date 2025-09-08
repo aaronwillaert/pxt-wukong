@@ -11,6 +11,7 @@
     "files": [
         "main.ts",
         "README.md",
+        "_locales/nl/wuKong-strings.json",
         "_locales/nl/wuKong-strings.json"
         
     ],
